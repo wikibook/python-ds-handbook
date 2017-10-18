@@ -1,0 +1,15 @@
+numpy==1.13.3
+pandas==0.20.2
+scipy==0.19.1
+scikit-learn==0.19.0
+scikit-image==0.12.3
+pillow==3.4.2
+matplotlib==2.1.0
+seaborn==0.7.0
+jupyter
+notebook
+line_profiler
+memory_profiler
+numexpr
+pandas-datareader
+netcdf4
